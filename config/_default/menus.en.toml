@@ -1,0 +1,32 @@
+############# English navigation ##############
+
+[[main]]
+name = "People"
+url = "/people"
+weight = 1
+
+[[main]]
+name = "Research"
+url = "/research"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 6
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Contact"
+url = "/contact"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
