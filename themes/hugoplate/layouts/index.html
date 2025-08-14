@@ -1,4 +1,5 @@
 {{ define "main" }}
+  
   <!-- Banner -->
   {{ with .Params.banner }}
     <section class="section pt-14">
@@ -26,7 +27,30 @@
             {{ end }}
           </div>
           <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+            <!-- Image Carousel -->
+            <div class="swiper banner-carousel">
+              <div class="swiper-wrapper">
+                {{ range .carousel_images }}
+                  <div class="swiper-slide">
+                    {{ partial "image" (dict 
+                      "Src" .src 
+                      "Alt" .alt 
+                      "Loading" "eager"
+                      "Class" "w-full h-auto rounded-lg"
+                      "DisplayXL" "800x"
+                      "DisplayLG" "768x"
+                      "DisplayMD" "640x"
+                      "DisplaySM" "480x"
+                    ) }}
+                  </div>
+                {{ end }}
+              </div>
+              <!-- Add Pagination -->
+              <div class="swiper-pagination mt-4"></div>
+              <!-- Add Navigation -->
+              <div class="swiper-button-prev"></div>
+              <div class="swiper-button-next"></div>
+            </div>
           </div>
         </div>
       </div>

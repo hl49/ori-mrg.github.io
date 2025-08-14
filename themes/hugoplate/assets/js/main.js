@@ -34,3 +34,27 @@
     },
   });
 })();
+
+// Initialize banner carousel
+document.addEventListener('DOMContentLoaded', function() {
+  const bannerCarousel = document.querySelector('.banner-carousel');
+  if (bannerCarousel) {
+    new Swiper('.banner-carousel', {
+      loop: true,
+      autoplay: {
+        delay: 50000,
+        disableOnInteraction: false,
+      },
+      pagination: {
+        el: '.banner-carousel .swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.banner-carousel .swiper-button-next',
+        prevEl: '.banner-carousel .swiper-button-prev',
+      },
+      slidesPerView: 1,
+      spaceBetween: 0,
+    });
+  }
+});
