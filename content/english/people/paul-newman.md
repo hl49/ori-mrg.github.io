@@ -1,7 +1,7 @@
 ---
 title: Paul Newman
 image: "/images/people/paul-newman.jpg"
-description: this is meta description
+description: BP professor and funder
 weight: 1
 social:
   - name: github
