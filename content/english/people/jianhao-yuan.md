@@ -9,7 +9,7 @@ social:
     link: https://github.com/YuanJianhao508
 
   - name: twitter
-    icon: fa-brands fa-twitter
+    icon: fa-brands fa-x-twitter
     link: https://x.com/DYDYYDYYYD
 
   - name: linkedin

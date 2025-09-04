@@ -9,7 +9,7 @@ social:
     link: https://github.com
 
   - name: twitter
-    icon: fa-brands fa-twitter
+    icon: fa-brands fa-x-twitter
     link: https://twitter.com
 
   - name: linkedin
