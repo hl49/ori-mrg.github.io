@@ -6,15 +6,11 @@ weight: 2024
 social:
   - name: github
     icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-x-twitter
-    link: https://twitter.com
+    link: [https://github.com](https://github.com/SitianShen?tab=overview&from=2025-09-01&to=2025-09-11)
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: [https://linkedin.com](https://www.linkedin.com/in/sitian-shen-a56070325/)
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Sitian Shen is currently a second-year DPhil student in MRG, focusing on SLAM, 3D/4D computer vision, and their applications on real robotic systems. She completed her undergraduate studies at Beijing Institute of Technology, China. During the final year of her undergraduate program, she conducted her thesis research under the supervision of Prof. Xinchao Wang at the National University of Singapore.
