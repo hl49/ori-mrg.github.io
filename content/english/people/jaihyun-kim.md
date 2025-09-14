@@ -3,6 +3,7 @@ title: Jaihyun Kim
 image: "/images/people/jaihyun-kim.jpg"
 description: Undergraduate Intern (2025 4YP)
 weight: 2025
+draft: true
 social:
   - name: github
     icon: fa-brands fa-github

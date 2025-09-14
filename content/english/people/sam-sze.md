@@ -3,6 +3,7 @@ title: Samuel Sze
 image: "/images/people/sam-sze.png"
 description: MRes student (2022 cohort)
 weight: 2022
+draft: true
 social:
   - name: github
     icon: fa-brands fa-github
