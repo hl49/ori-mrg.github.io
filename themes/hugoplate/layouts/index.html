@@ -58,6 +58,25 @@
   {{ end }}
   <!-- /Banner -->
 
+  <!-- Intro -->
+  {{ with .Params.intro }}
+    <section class="section-sm bg-gradient">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-8 md:col-10 text-center">
+            <h2 class="mb-4">
+              {{ .title | markdownify }}
+            </h2>
+            <p class="mb-0">
+              {{ .content | markdownify }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Intro -->
+
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
