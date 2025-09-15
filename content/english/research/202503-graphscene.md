@@ -7,7 +7,7 @@ image: "/images/research/202503-graphscene/banner.jpg"
 categories: ["Application", "Data"]
 author: "Efimia Panagiotaki"
 tags: ["nextjs", "tailwind"]
-draft: false
+draft: true
 ---
 
 Lorem Ipsum
