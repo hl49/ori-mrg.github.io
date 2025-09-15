@@ -7,6 +7,6 @@ image: "/images/research/202508-select2plan/new_teaser.jpg"
 categories: ["Application", "Data"]
 author: "Davide Buoso"
 tags: ["nextjs", "tailwind"]
-draft: false
+draft: true
 external: "https://lambdavi.github.io/select2plan/"
 ---
