@@ -7,6 +7,8 @@ banner:
       alt: "MRG social 2025"
     - src: "/images/banner/banner_2020.png"
       alt: "Banner remote 2020"
+    - src: "/images/banner/sax.png"
+      alt: "SAX 2021"
 
 # Intro
 intro:
