@@ -1,7 +1,7 @@
 ---
 title: Roberto Aldera
 image: "/images/people/roberto-aldera.jpg"
-description: PhD student (2017)
+description: PhD student (2017 cohort)
 alumni: true
 weight: 2017
 ---
