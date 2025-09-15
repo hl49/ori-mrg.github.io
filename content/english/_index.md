@@ -37,10 +37,6 @@ features:
     image: "/images/frontpage/neuralfloors.png"
     content: "Real-world data is costly and imperfect. We investigate approaches for generating high-quality synthetic data — from simulated environments to neural rendering — to augment training, accelerate development, and improve robustness of autonomous systems in the field."
 
-  - title: "Dataset and data analysis"
-    image: "/images/frontpage/dna.jpg"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-
   - title: "Dataset recording and sharing"
     image: "/images/frontpage/robotcycle.jpg"
     content: "Field robotics is about going out into the world. MRG builds and deploys bespoke platforms — from cars to space robots to bicycles — equipped with cutting-edge sensors. These systems let us gather unique datasets in real environments, which we then make available to the wider community through careful curation and open science initiatives."
