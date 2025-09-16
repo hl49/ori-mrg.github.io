@@ -3,7 +3,7 @@ title: Davide Buoso
 image: "/images/people/davide-buoso.webp"
 description: Visiting MSc (2024)
 alumni: true
-draft: true
+draft: false
 weight: 2024
 social:
   - name: github
