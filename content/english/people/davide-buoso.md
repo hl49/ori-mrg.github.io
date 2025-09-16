@@ -8,15 +8,17 @@ weight: 2024
 social:
   - name: github
     icon: fa-brands fa-github
-    link: https://github.com
+    link: https://github.com/lambdavi
 
   - name: twitter
     icon: fa-brands fa-x-twitter
-    link: https://twitter.com
+    link: https://x.com/BuosoDavide
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://www.linkedin.com/in/davide-buoso-485058182/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+I am an ELLIS PhD Student @ VANDAL, Turin, Italy. I was a Visiting Student at the University of Oxford, where I worked within the Mobile Robotics Group (supervised by Dr. Daniele De Martini) and the Torr Vision Group (supervised by Tim Franzmeyer and Prof. Philip Torr). I graduated cum Laude in Data Science and Engineering at Polytechnic University of Turin. 
+
+I am interested and currently working in the application of generative models to robotics and how to learn manipulation skills from human videos.
