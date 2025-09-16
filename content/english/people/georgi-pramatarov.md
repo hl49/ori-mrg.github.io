@@ -3,7 +3,7 @@ title: Georgi Pramatarov
 image: "/images/people/georgi-pramatarov.jpg"
 description: PhD student (2020 cohort)
 weight: 2020
-draft: true
+draft: false
 social:
   - name: github
     icon: fa-brands fa-github
