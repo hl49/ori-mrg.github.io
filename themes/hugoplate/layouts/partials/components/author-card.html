@@ -18,6 +18,7 @@
   <p class="mb-4">
     {{ .Params.description | plainify }}
   </p>
+  {{ if not .Params.alumni }}
   <ul class="social-icons">
     {{ range .Params.social }}
     <li>
@@ -28,4 +29,5 @@
     </li>
     {{ end }}
   </ul>
+  {{ end }}
 </div>
