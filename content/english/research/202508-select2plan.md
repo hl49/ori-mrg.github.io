@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2025-08-04T05:00:00Z
 image: "/images/research/202508-select2plan/new_teaser.jpg"
-categories: ["Genarative Models", "Navigation"]
+categories: ["Generative Models", "Navigation"]
 author: "Davide Buoso"
 tags: ["navigation", "planning"]
 draft: false
