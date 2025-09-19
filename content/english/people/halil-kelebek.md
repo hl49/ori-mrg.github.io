@@ -19,7 +19,7 @@ social:
 
 ---
 
-Halil is a 2nd-year DPhil student in the Mobile Robotics Group, supervised by Dr. Daniele De Martini. 
+Halil is a 2nd-year DPhil student in the Mobile Robotics Group, supervised by Prof. Daniele De Martini. 
 
 His current research, in collaboration with [WildCRU](https://www.wildcru.org/), focuses on developping robust animal re-identification techniques.
 
