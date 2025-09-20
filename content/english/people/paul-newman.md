@@ -1,7 +1,7 @@
 ---
 title: Paul Newman
 image: "/images/people/paul-newman.jpg"
-description: BP professor and funder
+description: BP professor and founder
 weight: 1
 social:
   - name: twitter
